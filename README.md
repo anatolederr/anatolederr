@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-Hello ! My name is Anatole Derrien. I'm a french IT student, currently in my first year at the IUT of vannes.  
+Hello ! My name is Anatole Derrien. I'm a french IT student at the IUT of Vannes.  
   
 
 <br/>  
@@ -24,10 +24,10 @@ Hello ! My name is Anatole Derrien. I'm a french IT student, currently in my fir
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on my school assignements  
+- 🔭 I’m currently working at kermap, as an intern in web developpement.
   
 
-- 🌱 I’m currently learning Java and HTML/CSS  
+- 🌱 The tools i'm more familliar with are Vue.js, Django, postgresql, maplibre and more !
   
 
 - ⚡ Fun fact: I've participated in a international robotic competition  
